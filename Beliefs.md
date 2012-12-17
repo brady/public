@@ -10,7 +10,7 @@ On Morality
 * Assisted suicide should be legal everywhere
 * Health care should be available to everyone who needs it
 * The death penalty should be used in extreme and certain cases to protect the public
-* Prisons should be about protecting the public, not about punishment
+* Prisons should be about protecting the public, not about punishment. Education, therapy & general self-betterment should be provided to break the cycle. 
 * The world's average morality is improving as it becomes more connected
 * Marijuana should be legal to grow, sell, buy, and carry
 * Owning a gun should require certification from a firearms officer verifying that they've taken a safetly course, are free of criminal record, and pass a psychological mental health check every few years
@@ -45,8 +45,9 @@ On Health
 ---------
 * We can change our behavior and habits (it requires a lot of energy)
 * Consistently eating well and exercising is the only way to be sustainably healthy
-* Acupuncture works, somehow
+* Acupuncture works, sometimes.
 * Vaccinations are good for babies and society
+* Most of happiness is frame of mind
 
 On Technology
 -------------
@@ -71,13 +72,13 @@ On Logic
 
 On Education
 ------------
-* Something will replace universities as we currently know them by 2030
+* Something will be a valid alternative to universities as we currently know them by 2030
 
 On Politics & The Economy
 -------------------------
 * Most jobs lost in 2008-present aren't going to come back, new ones have to be created from scratch
 * In the future, working will be more thoroughly decoupled from having the means to live
-* We'll have a President that admits to being atheist or agnostic by 2025
+* We'll have a President that admits to being atheist or agnostic by 2050
 * Power will be more quickly redistributed when it gets too heavy at the top
 
 On The Future Of Earth (2100)
@@ -100,6 +101,7 @@ On Love
 -------
 * Soulmates exist
 * Love at first sight happens
+* Love must be nurtured and maintained or it will fade
 
 Meta
 ----
